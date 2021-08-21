@@ -1,2 +1,4 @@
 # google-homepage
-Part the Odin Project Curriculum 
+Part of the Odin Project Curriculum 
+
+This is the first project in the Odin Project.
