@@ -2,10 +2,33 @@
     color: white;
 }
 
-.web-footer {
-    background-color: grey;
+.right-nav-bar {
+    float: right;
+    color: black;
+    width: -45%;
+    justify-content: space-evenly;
 }
 
-.item {
+.left-nav-bar {
+    float: left;
     color: black;
+    width: 45%;
+    justify-content: space-evenly;
+}
+
+.footer-container {
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#wp-header {
+    position: absolute;
+    top: 0;
+}
+
+#wp-footer {
+    position: absolute;
+    bottom: 0;
+    max-height: 100px;
+    background-color: #f2f2f2;
 }
