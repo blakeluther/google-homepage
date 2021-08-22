@@ -30,5 +30,32 @@
     position: absolute;
     bottom: 0;
     max-height: 100px;
-    background-color: #f2f2f2;
+    background-color: rgb(242, 242, 242);
+    width: 103%;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #5f6368;
+}
+
+.footer-left {
+    float: left;
+    color: #5f6368;
+    position: relative;
+    left: 1ex;
+    padding: 20px;
+    margin: 0px;
+    word-spacing: 10px;
+}
+
+.footer-right {
+    float: right;
+    position: relative;
+    right: 1ex;
+    padding: 20px;
+    word-spacing: 10px;
+    margin: 0px !important;
+}
+
+.item {
+    margin: 0px !important;
 }
